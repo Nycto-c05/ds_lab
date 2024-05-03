@@ -1,0 +1,19 @@
+experiment for scala 
+
+steps:-
+1.su -
+2.apt install docker
+3.apt install docker.io
+4.apt update
+5.apt install default-jdk
+6.apt install scala
+7.apt install vim(for text editor)
+notes:-
+for using vim text editor steps are:-
+a)esc+i
+b)write the code
+c)esc + : + wq
+(for creating the file)
+8.vim 1.scala
+9.scalac 1.scala
+10.scala [object name created in scala programme/click TAB]
